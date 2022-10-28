@@ -8,3 +8,6 @@
 ## Sofware Requerido
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Códigos HTML de Color](https://htmlcolorcodes.com/)
+
+## Tutoriales
+- [Configurar ESP32 para Arduino IDE](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
